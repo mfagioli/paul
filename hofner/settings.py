@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'hofner.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'hofner',
+        'NAME': 'paul',
         'USER': 'tincho',
         'PASSWORD': 'Marteen2008',
         'HOST': 'localhost',
